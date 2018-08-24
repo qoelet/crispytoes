@@ -17,6 +17,8 @@ dependencies:
 library:
   source-dirs: src
   exposed-modules:
+    - Bits
+    - Boolean
     - Crispy
 
 tests:
